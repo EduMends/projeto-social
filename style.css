@@ -14,7 +14,7 @@ html, body {
 
 body {
     height: 100vh;
-    background: url(../imagens/fundo-madeira.jpg), top center no-repeat;
+    background: url(imagens/fundo-madeira.jpg), top center no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -33,7 +33,7 @@ main {
     height: 627px;
     width: 311px;
     background-color: blue;
-    background: url(../imagens/frame-xiaomi.png), left center, no-repeat;
+    background: url(imagens/frame-xiaomi.png), left center, no-repeat;
 }
 
 #cel > iframe {
