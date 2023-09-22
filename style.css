@@ -49,12 +49,13 @@ main {
 }
 
 #redes {
-    text-align: right;
+    text-align: center;
 }
+
 
 #redes img {
     width: 50px;
-    margin: 10px;
+    margin: 20px;
     border-radius: 50%;
     background-image: url(imagens/logo-instagram.jpg);
     background-size: cover;
