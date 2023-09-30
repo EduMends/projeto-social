@@ -48,15 +48,17 @@ main {
 }
 
 #redes {
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items:end;
+    justify-content: center;
 }
 
 
 #redes img {
     width: 50px;
-    margin: 40px;
+    margin: 15px;
     border-radius: 50%;
     background-image: url(imagens/logo-instagram.jpg);
     background-size: cover;
