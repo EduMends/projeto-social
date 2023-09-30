@@ -1,20 +1,26 @@
 @media (max-width: 769px) {
+
+
+    main {
+        display: flex;
+        height: 80vh;
+    }
     #redes {
         height: 100vh;
-        position: relative;
-        top: -50px;
         flex-direction: row;
         justify-content: center;
-        align-items: end;
+        justify-items: center;
 
     }
+
     
-    #redes img {
-        position: relative;
-        top: 22px;
-        margin: 15px
-        
-    }
+
 }
 
+@media (max-height: 900px) {
+
+    #redes img {
+        border: 1px solid black;
+    }
+}
 
